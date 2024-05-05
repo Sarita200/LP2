@@ -1,0 +1,31 @@
+.img-class{
+    margin:auto 250px;
+}
+.navbar{
+    margin-left: 238px ;
+    width: 996px;
+}
+.mq{
+    width: 1500px;
+    background-color: rgb(245, 249, 248);
+    padding: 10px;
+    font-weight: bold;
+}
+.card{
+    width: 1000px;
+}
+.card-body{
+    background-color: rgb(243, 249, 251);
+    color: black;
+    width: 1500px;
+}
+.card-title1{
+    
+    font-weight: bold;
+    margin-top: 30px;
+}
+.link{
+    text-decoration: none;
+    
+    font-weight: bold;
+}
